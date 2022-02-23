@@ -1490,6 +1490,7 @@
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
     text-transform: uppercase;
+    display: none;
 }
 
 .container__list-goods-img {
